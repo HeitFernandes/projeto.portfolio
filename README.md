@@ -4,6 +4,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) 
 
 
-*Projeto de Estudo proporcionado pela ALURA.* 
+*Projeto de Estudo proporcionado pela ALURA.*
+
 [Clique para ver!](https://HeitFernandes.github.io/projeto.portfolio/)
+
 *Portfólio NÃO OFICIAL*
